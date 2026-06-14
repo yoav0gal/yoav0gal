@@ -1,28 +1,56 @@
-# Hey, I'm Yoav
+<div align="center">
 
-I'm a builder, problem solver, and curious technologist. I like working on useful tools, clean systems, and projects that make complicated things feel simpler.
+![Header](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:00C2FF,55:7C3AED,100:FF4D8D&text=Hey,%20I'm%20Yoav&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=building%20things%20with%20code,%20AI,%20and%20curiosity&descAlignY=58&animation=fadeIn)
 
-## What I'm Into
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=680&lines=I+like+turning+ideas+into+real+things;Useful+tools+%2B+clean+systems+%2B+experiments;Always+building%2C+learning%2C+iterating)](https://git.io/typing-svg)
 
-- Building software that is practical, reliable, and easy to use
-- Exploring AI, automation, developer tools, and product ideas
-- Turning rough concepts into working prototypes
-- Learning by shipping, iterating, and improving over time
+<br />
 
-## How I Work
+![AI](https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00C2FF?style=for-the-badge&logo=zapier&logoColor=111827)
+![Code](https://img.shields.io/badge/Code-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+![Ideas](https://img.shields.io/badge/Ideas-FF4D8D?style=for-the-badge&logo=sparkfun&logoColor=white)
 
-I care about clarity, thoughtful design, and keeping things moving. Whether I'm writing code, testing an idea, or improving a workflow, I try to make the result feel focused and useful.
+<br />
+<br />
 
-## Current Focus
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://api.iconify.design/fluent-emoji-flat:rocket.svg" width="54" alt="Rocket" />
+      <br />
+      <b>Prototypes</b>
+    </td>
+    <td align="center" width="180">
+      <img src="https://api.iconify.design/fluent-emoji-flat:robot.svg" width="54" alt="Robot" />
+      <br />
+      <b>AI tools</b>
+    </td>
+    <td align="center" width="180">
+      <img src="https://api.iconify.design/fluent-emoji-flat:gear.svg" width="54" alt="Gear" />
+      <br />
+      <b>Automation</b>
+    </td>
+    <td align="center" width="180">
+      <img src="https://api.iconify.design/fluent-emoji-flat:light-bulb.svg" width="54" alt="Light bulb" />
+      <br />
+      <b>Experiments</b>
+    </td>
+  </tr>
+</table>
 
-- Experimenting with new tools and technical workflows
-- Building small projects that solve real problems
-- Improving how I work with code, systems, and AI
+<br />
 
-## Connect
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yoav0gal&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Yoav's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=yoav0gal&theme=tokyonight&hide_border=true" alt="Yoav's GitHub streak" />
 
-Feel free to explore my repositories, check out what I'm working on, or reach out if something here catches your interest.
+<br />
+<br />
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yoav0gal&theme=tokyo-night&hide_border=true&area=true&custom_title=building%20log)
 
-Thanks for stopping by.
+<br />
+
+<sub>Thanks for stopping by.</sub>
+
+</div>
