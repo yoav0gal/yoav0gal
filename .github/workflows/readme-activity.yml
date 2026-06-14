@@ -1,0 +1,81 @@
+name: README Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Refresh commit history
+        env:
+          REPOSITORY: ${{ github.repository }}
+        run: |
+          python <<'PY'
+          from pathlib import Path
+          import os
+          import re
+          import subprocess
+
+          def git(*args):
+              return subprocess.check_output(["git", *args], text=True).strip()
+
+          repo = os.environ["REPOSITORY"]
+          recent = git("log", "-6", "--date=short", "--pretty=format:%h%x09%ad%x09%s").splitlines()
+
+          rows = []
+          for line in recent:
+              commit, date, message = line.split("\t", 2)
+              message = message.replace("|", "\\|")
+              rows.append(f"| [`{commit}`](https://github.com/{repo}/commit/{commit}) | {date} | {message} |")
+
+          block = f"""<!-- COMMIT-HISTORY:START -->
+<details>
+  <summary>commit history</summary>
+  <br />
+
+| commit | date | message |
+| --- | --- | --- |
+{chr(10).join(rows)}
+
+</details>
+<!-- COMMIT-HISTORY:END -->"""
+
+          readme = Path("README.md")
+          text = readme.read_text()
+          next_text = re.sub(
+              r"<!-- COMMIT-HISTORY:START -->.*?<!-- COMMIT-HISTORY:END -->",
+              block,
+              text,
+              flags=re.S,
+          )
+
+          if next_text == text:
+              raise SystemExit("Commit history markers were not found in README.md")
+
+          readme.write_text(next_text)
+          PY
+
+      - name: Commit refreshed README
+        run: |
+          if git diff --quiet README.md; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh README commit history"
+          git push

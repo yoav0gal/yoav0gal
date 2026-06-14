@@ -14,11 +14,38 @@
 <br />
 <br />
 
-<!-- CODEX-FAN:START -->
+<!-- CODEX-USAGE:START -->
 <img src="https://img.shields.io/badge/Codex%20fan-always%20building-00C2FF?style=for-the-badge&logo=openai&logoColor=white" alt="Codex fan" />
 <br />
-<sub>Codex pulse refreshed: 2026-06-14 19:19 UTC | run #1</sub>
-<!-- CODEX-FAN:END -->
+<table>
+  <tr>
+    <td align="center"><b>3</b><br /><sub>sessions today</sub></td>
+    <td align="center"><b>8.8M</b><br /><sub>tokens today</sub></td>
+    <td align="center"><b>1.2M</b><br /><sub>latest session</sub></td>
+    <td align="center"><b>69.4K</b><br /><sub>last turn</sub></td>
+  </tr>
+</table>
+
+<sub>input 1.2M | output 18.6K | reasoning 5.1K | updated 2026-06-14 19:39 UTC</sub>
+<!-- CODEX-USAGE:END -->
+
+<br />
+<br />
+
+<!-- COMMIT-HISTORY:START -->
+<details>
+  <summary>commit history</summary>
+  <br />
+
+| commit | date | message |
+| --- | --- | --- |
+| [`9ffd1a9`](https://github.com/yoav0gal/yoav0gal/commit/9ffd1a9) | 2026-06-14 | Refresh Codex fan pulse |
+| [`9b5938d`](https://github.com/yoav0gal/yoav0gal/commit/9b5938d) | 2026-06-14 | Add dynamic Codex fan pulse |
+| [`9648d86`](https://github.com/yoav0gal/yoav0gal/commit/9648d86) | 2026-06-14 | Make profile README more visual |
+| [`d2a80e0`](https://github.com/yoav0gal/yoav0gal/commit/d2a80e0) | 2026-06-14 | Add GitHub profile README |
+
+</details>
+<!-- COMMIT-HISTORY:END -->
 
 <br />
 <br />
