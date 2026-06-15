@@ -1,0 +1,31 @@
+name: Update Codex card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate card
+        env:
+          CODEX_AUTH_JSON: ${{ secrets.CODEX_AUTH_JSON }}
+          CODEX_ACCESS_TOKEN: ${{ secrets.CODEX_ACCESS_TOKEN }}
+        run: python scripts/update-codex-card.py
+
+      - name: Commit refreshed card
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Refresh Codex usage card
+          file_pattern: assets/codex-profile-card.svg assets/codex-usage-cache.json

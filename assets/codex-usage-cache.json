@@ -1,0 +1,1225 @@
+{
+  "daily": {
+    "data": [
+      {
+        "date": "2026-05-17",
+        "models": [
+          {
+            "credits": 14.808930249400579,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 14.26996512740732,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-18",
+        "models": [
+          {
+            "credits": 9.892930212517498,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.7488558171584583,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.09353643845071799,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 2.5529270172743788,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 7.79168766263072,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-19",
+        "models": [
+          {
+            "credits": 15.979071439602604,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.22067693181848963,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.018839025460289444,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.2148024759288517,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 2.345907119418776,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 13.489396069991727,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-20",
+        "models": [
+          {
+            "credits": 10.762918581619164,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 10.371206443831179,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-21",
+        "models": [
+          {
+            "credits": 6.966991954282382,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 6.713431055194627,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-22",
+        "models": [
+          {
+            "credits": 15.356899949204847,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 14.797991688096893,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-23",
+        "models": [
+          {
+            "credits": 6.38269452662506,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 6.150398899847602,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-24",
+        "models": [
+          {
+            "credits": 10.319781124026182,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 9.944196797624237,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-25",
+        "models": [
+          {
+            "credits": 12.621967038621786,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 12.162595572202664,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-26",
+        "models": [
+          {
+            "credits": 8.289704270784663,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 7.988003783420132,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-27",
+        "models": [
+          {
+            "credits": 99.22064577485273,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.6334177013327468,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.13876850351852557,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.007168020295995388,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 7.658350960593268,
+          "desktop_app": 30.23340944101145,
+          "exec": 0.01402733178104349,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 62.094212266614235,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-28",
+        "models": [
+          {
+            "credits": 89.28862024895614,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 1.2182720105424754,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.2445433152746135,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 39.647088264500674,
+          "exec": 0.5272442704251588,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 47.27424066411294,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-29",
+        "models": [
+          {
+            "credits": 46.614696878078284,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.4701351801195892,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.3432714671514822,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.03261110605252154,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.07470535194027877,
+          "desktop_app": 16.841016374365516,
+          "exec": 0.4279531943676248,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 28.389725892619538,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-30",
+        "models": [
+          {
+            "credits": 38.83204057952572,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.2404177165160162,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0729070245988494,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.026989856200030943,
+          "desktop_app": 5.459076930421655,
+          "exec": 0.21820551183169332,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 32.016413032465216,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-05-31",
+        "models": [
+          {
+            "credits": 63.38739334809982,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.6264581019865343,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.17635512449415247,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 38.57998642994172,
+          "exec": 0.610017569645674,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 22.6640255564916,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-01",
+        "models": [
+          {
+            "credits": 71.69035703637317,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.8881804157352412,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.15610571839915235,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 1.2899653217382645,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 47.38407345936649,
+          "exec": 0.18670422388613828,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 23.75973464710863,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-02",
+        "models": [
+          {
+            "credits": 47.188948153791344,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.3287827374590686,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.10932806124399187,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 2.744910899700969,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 30.815845384292057,
+          "exec": 0.10569002516331791,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 17.617166649644133,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-03",
+        "models": [
+          {
+            "credits": 55.41183930958174,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.6929976917930357,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.053916861179377704,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 32.93614666492063,
+          "exec": 0.17582794718521635,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 21.002903756622814,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-04",
+        "models": [
+          {
+            "credits": 20.275897839623486,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.260478560638524,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.023844536396398188,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 5.271483367132392,
+          "exec": 0.7934482161336367,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 13.74700829603626,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-05",
+        "models": [
+          {
+            "credits": 32.44559709745173,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.2806967035910567,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.06185317702474606,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 15.629022467436604,
+          "exec": 0.13507517162935787,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 15.830737780478813,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-06",
+        "models": [
+          {
+            "credits": 17.067656245025084,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0049995466888036345,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.012911578712855077,
+          "desktop_app": 5.532941215067966,
+          "exec": 0.12004871455366867,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 10.785401771309699,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-07",
+        "models": [
+          {
+            "credits": 72.97494623365415,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.1449078331602776,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.16203109978501085,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 56.21248289518442,
+          "exec": 0.17981265927477677,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 14.222524570064628,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-08",
+        "models": [
+          {
+            "credits": 49.75510597387561,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.6277398689806398,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.2664893858749696,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 35.73954443599285,
+          "exec": 0.15397939691561888,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 12.912449000248264,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-09",
+        "models": [
+          {
+            "credits": 45.656949743940956,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.24417562925943032,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.10588544526653877,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 17.925566229093143,
+          "exec": 0.12271810113944775,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 26.284319641776,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-10",
+        "models": [
+          {
+            "credits": 20.935606074159516,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0024753592551583705,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.3390159699517644,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 19.83703232372806,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-11",
+        "models": [
+          {
+            "credits": 18.241941822457072,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 17.578033610712172,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-12",
+        "models": [
+          {
+            "credits": 19.62312735737394,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 18.908951447842295,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-13",
+        "models": [
+          {
+            "credits": 25.316641528951827,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 1.6664790987516633,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 22.728773338596913,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-14",
+        "models": [
+          {
+            "credits": 31.227838492812808,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.34168058610931795,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.21303760490303217,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 8.150302003640771,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 22.475541180163088,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      },
+      {
+        "date": "2026-06-15",
+        "models": [
+          {
+            "credits": 0.0,
+            "model": "gpt-5.5",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-5.4-mini",
+            "speed": "standard"
+          },
+          {
+            "credits": 0.0,
+            "model": "gpt-image-2",
+            "speed": "standard"
+          }
+        ],
+        "product_surface_usage_values": {
+          "agent_identity": 0.0,
+          "cli": 0.0,
+          "desktop_app": 0.0,
+          "exec": 0.0,
+          "github": 0.0,
+          "github_code_review": 0.0,
+          "jetbrains": 0.0,
+          "linear": 0.0,
+          "sdk": 0.0,
+          "slack": 0.0,
+          "unknown": 0.0,
+          "vscode": 0.0,
+          "web": 0.0
+        }
+      }
+    ],
+    "group_by": "day",
+    "units": "percent"
+  },
+  "generated_at": "2026-06-15T03:35:47.282635+00:00",
+  "rate_limit": {
+    "allowed": true,
+    "limit_reached": false,
+    "primary_window": {
+      "limit_window_seconds": 18000,
+      "reset_after_seconds": 12942,
+      "reset_at": 1781507487,
+      "used_percent": 8
+    },
+    "secondary_window": {
+      "limit_window_seconds": 604800,
+      "reset_after_seconds": 248713,
+      "reset_at": 1781743258,
+      "used_percent": 38
+    }
+  }
+}
