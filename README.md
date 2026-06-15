@@ -14,13 +14,6 @@
 <br />
 <br />
 
-<!-- CODEX-CARD:START -->
-<img src="./assets/codex-profile-card.svg" alt="Yoav Gal Codex usage card" width="998" />
-<!-- CODEX-CARD:END -->
-
-<br />
-<br />
-
 <table>
   <tr>
     <td align="center" width="180">
